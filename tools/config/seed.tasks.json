@@ -1,0 +1,18 @@
+{
+   "express.dev": [
+    "build.dev",
+    "watch.server",
+    "watch.server.assets",
+    "watch.sass",
+    "express.start"
+  ],
+   
+  "build.dev": [
+    "clean.once",
+    "copy.server.assets",
+    "build.sass",
+    "build.server",
+    "webpack.dev"
+  ]
+}
+
