@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA;EAKE,8BAA8B;EAC3B,oBAAoB;EACpB,kBAAkB,EACrB;EARF;IAGG,mBAAmB,EACnB","file":"index.css","sourcesContent":[".video-container{\n\t.video-item{\n\t\t.video-name{\n\t\t\ttext-align: center;\n\t\t}\n\t\tborder-bottom: 1px solid #ddd;\n    \tpadding-bottom: 5px;\n    \tpadding-top: 10px;\n\t}\n}"]}

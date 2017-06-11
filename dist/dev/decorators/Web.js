@@ -1,0 +1,17 @@
+"use strict";
+class RouterMap {
+}
+RouterMap.__DecoratedRouters = new Map();
+exports.RouterMap = RouterMap;
+function router(config) {
+    return (target, name, value) => {
+        RouterMap.__DecoratedRouters.set({
+            target: target,
+            path: config.path,
+            method: config.method
+        }, target[name]);
+    };
+}
+exports.router = router;
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImRlY29yYXRvcnMvV2ViLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQTs7QUFDUSw0QkFBa0IsR0FBOEUsSUFBSSxHQUFHLEVBQUUsQ0FBQTtBQURqSCw4QkFFQztBQUNELGdCQUF1QixNQUF3QztJQUM5RCxNQUFNLENBQUMsQ0FBQyxNQUFXLEVBQUUsSUFBWSxFQUFFLEtBQXlCO1FBQzNELFNBQVMsQ0FBQyxrQkFBa0IsQ0FBQyxHQUFHLENBQUM7WUFDaEMsTUFBTSxFQUFFLE1BQU07WUFDZCxJQUFJLEVBQUUsTUFBTSxDQUFDLElBQUk7WUFDakIsTUFBTSxFQUFFLE1BQU0sQ0FBQyxNQUFNO1NBQ3JCLEVBQUUsTUFBTSxDQUFDLElBQUksQ0FBQyxDQUFDLENBQUE7SUFDakIsQ0FBQyxDQUFBO0FBQ0YsQ0FBQztBQVJELHdCQVFDIiwiZmlsZSI6ImRlY29yYXRvcnMvV2ViLmpzIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNsYXNzIFJvdXRlck1hcCB7XG5cdHN0YXRpYyBfX0RlY29yYXRlZFJvdXRlcnM6IE1hcDx7IHRhcmdldDogYW55LCBtZXRob2Q6IHN0cmluZywgcGF0aDogc3RyaW5nIH0sIEZ1bmN0aW9uIHwgRnVuY3Rpb25bXT4gPSBuZXcgTWFwKClcbn1cbmV4cG9ydCBmdW5jdGlvbiByb3V0ZXIoY29uZmlnOiB7IHBhdGg6IHN0cmluZywgbWV0aG9kOiBzdHJpbmcgfSkge1xuXHRyZXR1cm4gKHRhcmdldDogYW55LCBuYW1lOiBzdHJpbmcsIHZhbHVlOiBQcm9wZXJ0eURlc2NyaXB0b3IpID0+IHtcblx0XHRSb3V0ZXJNYXAuX19EZWNvcmF0ZWRSb3V0ZXJzLnNldCh7XG5cdFx0XHR0YXJnZXQ6IHRhcmdldCxcblx0XHRcdHBhdGg6IGNvbmZpZy5wYXRoLFxuXHRcdFx0bWV0aG9kOiBjb25maWcubWV0aG9kXG5cdFx0fSwgdGFyZ2V0W25hbWVdKVxuXHR9XG59Il19

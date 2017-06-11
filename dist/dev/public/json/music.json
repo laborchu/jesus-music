@@ -1,0 +1,46 @@
+[
+	{
+		"name":"每一天",
+		"iframe":"<iframe width=100% src='http://player.youku.com/embed/XMTUwMjM5OTk2NA==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"敬拜耶和华",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XMTgzNjAzMDEwNA==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"叫我怎能忘记你",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XNjc0NTYyMTc2' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"新年祝福",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XMTQ2MTM0MTczNg==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"感恩的歌唱也唱不完",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XMjUxNzY4MDkxMg==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"恩典够用",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XMTM3NjM0NDYzMg==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"向前的路",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XMTUyODU0OTczNg==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"热情的新郎",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XMjcxODMxNzQ1Mg==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"爱主一回",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XMTQ1ODQ2Njg4NA==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"敬拜赞美迎来神同在",
+		"iframe":"<iframe width=100% src='http://player.youku.com/embed/XMjczNDEyMjI2OA==' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
+		"name":"咱的家大呀",
+		"iframe":"<iframe width=100%  src='http://player.youku.com/embed/XMTU3NTYzMjQ1Ng==' frameborder=0 'allowfullscreen'></iframe>"
+	}
+]
