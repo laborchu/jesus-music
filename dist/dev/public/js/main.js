@@ -21833,6 +21833,58 @@
 
 	module.exports = [
 		{
+			"name": "使徒信经",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTczMDAzNDQ0MA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "主啊求你将信心加给我",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTg4ODI0ODYzNg==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "因着耶稣爱的缘故",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTc4NDk2NzYyOA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "同路人",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjc3NzMyNjIxNg==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "主啊我要跟随你",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjY0OTY5MDgwMA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "大海中的船",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjgxNzU3NDI0MA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "单单依靠你",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjY5MTgwODEzMg==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "为神过好每一天",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XODA0NzYxNzQ0' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "医治的爱",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjgzNTU4ODYxNg==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "尽情的敬拜",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjUyOTU2MTY=' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "是你把我人海中找到",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTgwNzQ0ODk5Ng==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "主我渴慕你",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjMzMTUzNzYw' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "今生跟随主耶稣",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTcxNjkxMjgwMA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
 			"name": "每一天",
 			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTUwMjM5OTk2NA==' frameborder=0 'allowfullscreen'></iframe>"
 		},
