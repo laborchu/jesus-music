@@ -21833,6 +21833,14 @@
 
 	module.exports = [
 		{
+			"name": "你是真心爱主吗",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XNjMxMzAyODA4' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "天堂真快乐",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTUzNDkxNDM4OA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
 			"name": "使徒信经",
 			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTczMDAzNDQ0MA==' frameborder=0 'allowfullscreen'></iframe>"
 		},
