@@ -21833,6 +21833,14 @@
 
 	module.exports = [
 		{
+			"name": "人生道路",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XNDI2NzY1NzAw' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "基督精兵",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjgwOTIyMDQ2MA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
 			"name": "你是真心爱主吗",
 			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XNjMxMzAyODA4' frameborder=0 'allowfullscreen'></iframe>"
 		},
