@@ -21833,6 +21833,30 @@
 
 	module.exports = [
 		{
+			"name": "耶稣的名大有权柄",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTc3MDQ2MjE0OA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "中国心",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjI3NjE2ODg3Ng==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "点燃复兴的火焰",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjEyNTYxMzE3Ng==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "我只要主耶稣",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XNjk4MDQ2NzY4' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "赎罪的羔羊",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTU2NDY4MDI3Ng==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "因着耶稣爱的缘故",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTQxMzI3NTk4OA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
 			"name": "人生道路",
 			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XNDI2NzY1NzAw' frameborder=0 'allowfullscreen'></iframe>"
 		},
