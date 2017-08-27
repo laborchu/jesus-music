@@ -1,23 +1,27 @@
 [
 	{
+		"name":"主是避难所",
+		"iframe":"<iframe width=100% src='https://v.qq.com/iframe/player.html?vid=i0157g8evic&tiny=0&auto=0' frameborder=0 'allowfullscreen'></iframe>"
+	},
+	{
 		"name":"耶稣的名大有权柄",
 		"iframe":"<iframe width=100% src='http://player.youku.com/embed/XMTc3MDQ2MjE0OA==' frameborder=0 'allowfullscreen'></iframe>"
 	},
 	{
 		"name":"中国心",
-		"iframe":"<iframe width=100% src='http://player.youku.com/embed/XMjI3NjE2ODg3Ng==' frameborder=0 'allowfullscreen'></iframe>"
+		"iframe":"<iframe width=100% src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=a23aecc563dbcdc40ec29965c28609af&tvId=948756609&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 'allowfullscreen'></iframe>"
 	},
 	{
 		"name":"点燃复兴的火焰",
-		"iframe":"<iframe width=100% src='http://player.youku.com/embed/XMjEyNTYxMzE3Ng==' frameborder=0 'allowfullscreen'></iframe>"
+		"iframe":"<iframe width=100% src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=406c5e9684b47fc44b00645fb7ea4f21&tvId=4921185009&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 'allowfullscreen'></iframe>"
 	},
 	{
 		"name":"我只要主耶稣",
-		"iframe":"<iframe width=100% src='http://player.youku.com/embed/XNjk4MDQ2NzY4' frameborder=0 'allowfullscreen'></iframe>"
+		"iframe":"<iframe width=100% src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=4cca0142c8bc2717f30512244146f49d&tvId=3613998709&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 'allowfullscreen'></iframe>"
 	},
 	{
 		"name":"赎罪的羔羊",
-		"iframe":"<iframe width=100% src='http://player.youku.com/embed/XMTU2NDY4MDI3Ng==' frameborder=0 'allowfullscreen'></iframe>"
+		"iframe":"<iframe width=100% src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=fbbfc3fa6ec9d2bcc569208901ad311e&tvId=660708109&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 'allowfullscreen'></iframe>"
 	},
 	{
 		"name":"因着耶稣爱的缘故",
