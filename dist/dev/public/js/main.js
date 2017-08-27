@@ -21833,6 +21833,18 @@
 
 	module.exports = [
 		{
+			"name": "耶稣真爱你",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjcxNTM1ODYyOA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "我只要主耶稣",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMjcyMTk2NTI5Mg==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
+			"name": "何等平安喜乐",
+			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XMTM4OTQyOTIwOA==' frameborder=0 'allowfullscreen'></iframe>"
+		},
+		{
 			"name": "主是避难所",
 			"iframe": "<iframe width=100% src='https://v.qq.com/iframe/player.html?vid=i0157g8evic&tiny=0&auto=0' frameborder=0 'allowfullscreen'></iframe>"
 		},
