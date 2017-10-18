@@ -1,11 +1,11 @@
 [
 	{
 		"name":"主祷文",
-		"iframe":"http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=fce860928bc067c68e56f125b50938db&tvId=7105169709&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
+		"iframe":"<iframe src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=fce860928bc067c68e56f125b50938db&tvId=7105169709&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
 	},
 	{
 		"name":"心灵的诗歌",
-		"iframe":"http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=80bde4d1581bb18007b0f99742377dc1&tvId=513317409&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
+		"iframe":"<iframe src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=80bde4d1581bb18007b0f99742377dc1&tvId=513317409&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
 	},
 	{
 		"name":"主啊我的生命在你手中",
