@@ -21833,6 +21833,26 @@
 
 	module.exports = [
 		{
+			"name": "主祷文",
+			"iframe": "http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=fce860928bc067c68e56f125b50938db&tvId=7105169709&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
+		},
+		{
+			"name": "心灵的诗歌",
+			"iframe": "http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=80bde4d1581bb18007b0f99742377dc1&tvId=513317409&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
+		},
+		{
+			"name": "主啊我的生命在你手中",
+			"iframe": "<iframe src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=72a2330dcb8ac22776fb2209b2441ca3&tvId=4258972209&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
+		},
+		{
+			"name": "有耶稣真美好",
+			"iframe": "<iframe src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=b875f96905fd2f366d00e6daf52ee153&tvId=5203943309&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
+		},
+		{
+			"name": "唱一首天上的歌",
+			"iframe": "<iframe src='http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=3c71f419f8d849912c83518a59303b29&tvId=1707605509&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%' frameborder=0 allowfullscreen></iframe>"
+		},
+		{
 			"name": "主是葡萄树",
 			"iframe": "<iframe width=100% src='http://player.youku.com/embed/XNzYwMzk3NDUy' frameborder=0 'allowfullscreen'></iframe>"
 		},
